@@ -4267,7 +4267,7 @@
     "type": "github",
     "owner": "marcosc90",
     "repo": "transform",
-    "desc": "Transformer for Deno",
+    "desc": "This package provides reader wrappers that transform the bytes passing through as well as multiple built-in transformers (gzip, base64)",
     "default_version": "master"
   },
   "transport": {
